@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{9E4262C1-0714-424E-1DF1-2A34780888C9}") = "WxPlane", "Assembly-CSharp.csproj", "{63BBBEFA-0AB5-6066-A41C-E2E272F78CAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63BBBEFA-0AB5-6066-A41C-E2E272F78CAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63BBBEFA-0AB5-6066-A41C-E2E272F78CAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63BBBEFA-0AB5-6066-A41C-E2E272F78CAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63BBBEFA-0AB5-6066-A41C-E2E272F78CAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
